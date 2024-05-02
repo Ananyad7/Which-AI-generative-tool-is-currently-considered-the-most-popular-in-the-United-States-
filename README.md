@@ -1,6 +1,7 @@
 # Which-AI-generative-tool-is-currently-considered-the-most-popular-in-the-United-States-
 
 link: https://public.tableau.com/views/GenerativeAISearchTrendsintheUnitedStates_17085083726340/Dashboard4?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+
 Tool used: Tableau
 
 Currently, Midjourney image generative AI tool captures the curiosity of 94% (approx.) of U.S. states, while DALL-E image generative tool piques interest in North Dakota, South Dakota, and West Virginia.
