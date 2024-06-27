@@ -1,4 +1,4 @@
-# Which-AI-generative-tool-is-currently-considered-the-most-popular-in-the-United-States-
+# Which AI generative tool is currently considered the most popular in the United States?
 
 Report link: <a href="https://public.tableau.com/views/GenerativeAISearchTrendsintheUnitedStates_17085083726340/Dashboard4?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">Link</a>
 
